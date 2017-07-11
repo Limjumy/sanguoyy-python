@@ -1,0 +1,13 @@
+词典：user.dict.utf-8文件（加入了三国搜狗词典）
+      names_sanguoyy.txt （角色人名及词性na）
+      
+
+sanguoyy 是白话版三国（网络无名）
+sanguoyy2是罗贯中版（书名《三国演义——罗贯中著》）
+
+
+
+对于的写入文件txt，以以上两个版本的三国演义区分
+如：names_times_sanguoyy2.txt 是罗贯中版本生成的人物出现频数
+role_relationships_sanguoyy2.txt 是罗贯中版本 人物关系 共现组合 频数
+
